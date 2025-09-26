@@ -1,0 +1,26 @@
+{
+  "name": "project-basecamp",
+  "version": "1.0.0",
+  "description": "project management app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joel-noronha/Project-Base-camp.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Joel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joel-noronha/Project-Base-camp/issues"
+  },
+  "homepage": "https://github.com/joel-noronha/Project-Base-camp#readme",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
